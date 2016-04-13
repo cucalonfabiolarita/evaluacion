@@ -1,0 +1,17 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 1 Punto. No cumple con los requisitos de busqueda. Lista y sale con otros comandos.
+Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. No tienen errores de consola, pero no han validado bien el input.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 0.5 Puntos. No usaron Dry, mucho codigo repetido. Condicional mal usado, falta clausula else en el if.
+Comentarios (1 Punto): 0 Puntos. No comentaron
+Subio bien a github (1 Punto bonus): 1 Punto. Si subieron bien el proyecto.
+Total: 3.5 Puntos.
+
+Comentarios Profesor
+Los comandos que piden no reflejan el input que hay que poner para salir o listar.
+Porque hay un div en el head que baja hasta el body, eso esta pesimo.
+Ni siquiera intentaron hacer la parte de la busqueda que era el requisito principal.
+Utilizaron objetos, pero se pidio que usen arreglo de objetos.
+Muy pobre la prueba, ni siquiera intentaron hacer la busqueda.
+Mejor intentar y fallar, que no intentar.
+
+https://github.com/cucalonfabiolarita/evaluacion_roxannaorrala_ritaCucalon
